@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.EntityFrameworkCore;
+using GlobalTec.Data;
 
 
 namespace GlobalTec
@@ -23,6 +25,10 @@ namespace GlobalTec
     public void ConfigureServices(IServiceCollection services)
     {
       services.AddCors();
+      //inclusao de banco de dados INMEMORY
+      services.AddDbContext<DataContext>(opt => opt.UseInMemoryDatabase("Database"));
+      services.AddScoped<DataContext, DataContext>();
+
       services.AddControllers();
 
       var key = Encoding.ASCII.GetBytes(Settings.Secret);

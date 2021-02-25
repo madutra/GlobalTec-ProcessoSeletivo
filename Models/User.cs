@@ -1,6 +1,9 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace GlobalTec.Models {
     public class User {
-        public long Id { get; set; }
+        [Key]
+        public int Id { get; set; }
         public string UserCode { get; set; }
         public string Name { get; set; }
         public string CPF { get; set; }

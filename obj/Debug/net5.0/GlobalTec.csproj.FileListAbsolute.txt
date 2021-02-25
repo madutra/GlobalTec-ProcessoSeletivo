@@ -34,3 +34,8 @@ C:\MatheusThings\VisualStudio2019\GlobalTec\obj\Debug\net5.0\GlobalTec.dll
 C:\MatheusThings\VisualStudio2019\GlobalTec\obj\Debug\net5.0\ref\GlobalTec.dll
 C:\MatheusThings\VisualStudio2019\GlobalTec\obj\Debug\net5.0\GlobalTec.pdb
 C:\MatheusThings\VisualStudio2019\GlobalTec\obj\Debug\net5.0\GlobalTec.genruntimeconfig.cache
+C:\MatheusThings\VisualStudio2019\GlobalTec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\MatheusThings\VisualStudio2019\GlobalTec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MatheusThings\VisualStudio2019\GlobalTec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\MatheusThings\VisualStudio2019\GlobalTec\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MatheusThings\VisualStudio2019\GlobalTec\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
