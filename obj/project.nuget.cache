@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9W9zXHcX7U3j3IjDyJjvJ9oyJMW7t7YiDU1cSP4iX3QHxi+qCHARXzc83dNoPb5cGQ4ibViy94kYRmrJiwH3TA==",
+  "dgSpecHash": "VUM/+APibN5Oh16+GVJtVG7hNar3lMOkD2LAA80w42bIj83wXcKTuTVZ6ZRkrUwzbD4hyoYkqLhpNm03NtX5Pw==",
   "success": true,
-  "projectFilePath": "C:\\MatheusThings\\VisualStudio2019\\GlobalTec\\GlobalTec.csproj",
+  "projectFilePath": "C:\\MatheusThings\\VisualStudio2019\\Desafio1_GlobalTec\\GlobalTec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus Andrade\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Matheus Andrade\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

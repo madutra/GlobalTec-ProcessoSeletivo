@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MatheusThings\\VisualStudio2019\\GlobalTec\\GlobalTec.csproj": {}
+    "C:\\MatheusThings\\VisualStudio2019\\Desafio1_GlobalTec\\GlobalTec.csproj": {}
   },
   "projects": {
-    "C:\\MatheusThings\\VisualStudio2019\\GlobalTec\\GlobalTec.csproj": {
+    "C:\\MatheusThings\\VisualStudio2019\\Desafio1_GlobalTec\\GlobalTec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MatheusThings\\VisualStudio2019\\GlobalTec\\GlobalTec.csproj",
+        "projectUniqueName": "C:\\MatheusThings\\VisualStudio2019\\Desafio1_GlobalTec\\GlobalTec.csproj",
         "projectName": "GlobalTec",
-        "projectPath": "C:\\MatheusThings\\VisualStudio2019\\GlobalTec\\GlobalTec.csproj",
+        "projectPath": "C:\\MatheusThings\\VisualStudio2019\\Desafio1_GlobalTec\\GlobalTec.csproj",
         "packagesPath": "C:\\Users\\Matheus Andrade\\.nuget\\packages\\",
-        "outputPath": "C:\\MatheusThings\\VisualStudio2019\\GlobalTec\\obj\\",
+        "outputPath": "C:\\MatheusThings\\VisualStudio2019\\Desafio1_GlobalTec\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus Andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
